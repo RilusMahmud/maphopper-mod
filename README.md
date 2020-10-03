@@ -17,6 +17,11 @@ And also custom API response.
 
 ### Usage
 
+Use node version 7,
+
+Run npm command:
+`npm install`
+
 Run with node command:
 `node index.js`
 
