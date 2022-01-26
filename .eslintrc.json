@@ -1,3 +1,4 @@
 {
-    "extends": "standard"
+  "extends": "standard",
+  "quotes": ["double", "avoid-escape"]
 }
