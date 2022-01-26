@@ -12,7 +12,8 @@ const isoMapper = require("./src/mappers/isochrone_mapper");
 const optiMapper = require("./src/mappers/optimization_mapper");
 const matrixMapper = require("./src/mappers/matrix_mapper");
 
-const GH_BASE = "http://geoserver.bmapsbd.com:8989";
+//const GH_BASE = "http://geoserver.bmapsbd.com:8989";
+const GH_BASE = "http://192.168.176.1:8989";
 const SUCC_MSG = "Succesful Mapping";
 
 let loggerOptions = { name: "maphopper" };
